@@ -13,7 +13,7 @@ What does it mean restarting the node every, say 3 days? Every month the node re
 * what about spreading rolls over multiple tiny machines?
 
 ***
-Here is a small script (untested) to check the current memory usage, if it exceeds a certain threshold (in the script 1400MB), the node will restart automatically. The script should be used with crontab, running automatically, say every hour).
+Here is a small script (untested) to check the current memory usage, if it exceeds a certain threshold (in the script 1400MB), the node will restart automatically. The script should be used with crontab, activated every xx hours).
 
     #! /bin/bash
 
