@@ -1,11 +1,11 @@
 
 This is an update to run a node with a precompiled Tezos for the zeronet network with RPI3.
 
-If you had already a lot of fun with the alphanet following the recipe in the previous page[b], jump here(*) (next paragraph).
+If you had already a lot of fun with the alphanet following the recipe in the previous page[b-1], jump here(*) (next paragraph).
 
 ***
 
-If you have a blank SD card wondering what to do, start following few steps from the previous page[b].
+If you have a blank SD card wondering what to do, start following few steps from the previous page[b-1].
 
 PLEASE NOTE
 if you are planning to run the node only on the zeronet, stop following the old instructions after the command “./resize.sh” and jump to the next paragraph (*).
