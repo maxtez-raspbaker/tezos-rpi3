@@ -42,14 +42,14 @@ The package URI still needs to be pinned locally, the new version is 1.9.6. In /
 
 `opam source uri.1.9.6`
 
-then edit 3 jbuild files as discussed in page [b] and compile the new URI:
+then edit 3 jbuild files as discussed in page [b-1] and compile the new URI:
 
 `opam pin add uri uri.1.9.6`
 \
 \
 \
 With `make build-deps` the package "pkgconf-pkg-config" is still not recognized during the final check.
-Follow the instructions in page [b] to solve this issue.
+Follow the instructions in page [b-1] to solve this issue.
 \
 \
 \
