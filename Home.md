@@ -38,7 +38,7 @@ Various links to Tezos stuff (partial list):
 \
 \
 \
-These pages are open for contributions from anyone in the Tezos and github communities.
+Contributions to these pages from anyone in the Tezos and github communities are welcome.
 
 https://help.github.com/articles/changing-access-permissions-for-wikis/
 
