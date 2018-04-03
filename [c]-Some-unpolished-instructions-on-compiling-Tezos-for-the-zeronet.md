@@ -24,6 +24,8 @@ OCaml 4.06.1 is also needed now (03/31/2018)
 
 `opam switch create tezos ocaml-base-compiler.4.06.1`
 
+`eval $(opam env)`
+
 `opam switch remove 4.04.2`
 \
 \
