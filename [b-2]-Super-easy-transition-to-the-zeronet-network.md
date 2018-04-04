@@ -20,7 +20,7 @@ if you are planning to run the node on the alphanet and also the zeronet then go
 Stop the node if it is running. If the RPI3 is off, just boot it then download the zip file tz-zero032618.zip
 by typing on the terminal from the default location /home/tzuser:
 
-_GOOD TO KNOW: please check the [e] Updates page for the latest zip file and scripts replacing those in this page_
+_GOOD TO KNOW: please check the [e] Updates page for the latest zip file and the new script tz-switch.sh replacing those in this page_
 
 `wget https://www.dropbox.com/s/xytmq80rs4a5akd/tz-zero032618.zip`
 
