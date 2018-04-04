@@ -1,2 +1,2 @@
 ### NEWS
-- ****04/04/18**** New precompiled Tezos for the zeronet is available in page [e] Updates
+- ****04/04/18**** New precompiled Tezos for the zeronet is available at page [e] Updates
