@@ -14,6 +14,8 @@ A new tz-switch.sh script is required:
 By running the script (change the permission `chmod 764 tz-switch.sh` and type `./tz-switch.sh`) it will put the new tezos in its folder (./home/tzuser/tezos). It will also
 create a new tz-start.sh script which does not use the utility cpulimit anymore and it will copy a new config.json file 
 in /home/tzuser/.tezos-node (low RAM usage). The identity file identity.json (if exists) and the content of previous runs stored in /home/tzuser/.tezos-node/store and /home/tzuser/.tezos-node/context are preserved. If you have been on the zeronet before, just type as usual `./tz-start.sh`. If this is the first time, then type `tz-init.sh` and then `./tz-start.sh`.
+
+In case anyone is wondering why not compile Tezos from the master branch. Done that (with some gentle tweaking), but when you run it, it won't connect to the network (yet?).
 ***
 
 ****03/31/2018****: this is the script to start tezos-node and tezos-client in boostrapped mode (zeronet)
