@@ -1,7 +1,7 @@
 
-At the moment (04/05/18) it is unclear whether the Tezos Foundation will provide instructions or support for baking on the betanet and mainnet with RPI3.
+At the moment (04/05/18) it is unclear whether the Tezos Foundation will provide instructions or support for RPI3 on the betanet and mainnet.
 
-As a token holder my plan is to go forward baking with 3 RPI3. 
+Regardless, as a token holder my plan is to go forward baking with 3 RPI3. 
 
 Detailed instructions on how to compile the Tezos program for the betanet and mainnet will be made available on these wiki pages.
 About sharing a pre-compiled version, it would be probably wise to seek first some kind of endorsement or official approval from the Tezos Foundation. 
