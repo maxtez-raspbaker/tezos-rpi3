@@ -67,10 +67,14 @@ Additional commands, for example to create an identity or to transfer “virtual
 should follow the syntax described in the Tezos documentation (http://doc.tzalpha.net).
 
 What is the fun without an update? While the node is running, in the text shell please type:
-wget -N https://www.dropbox.com/s/eienap1sw6conzw/tz-start.sh
+
+`wget -N https://www.dropbox.com/s/eienap1sw6conzw/tz-start.sh`
+
 with the original script sometimes the tezos-client program fails to start, this update should reduce the risk.
 and also:
-wget -N -P /home/tzuser/.tezos-node https://www.dropbox.com/s/stu7gjjx7rsqyt0/config.json
+
+`wget -N -P /home/tzuser/.tezos-node https://www.dropbox.com/s/stu7gjjx7rsqyt0/config.json`
+
 a slightly revised version of config.json
 
 A little bit more info on the setup. The Linux-OS includes a small number of services with a minimal graphical interface (X11). ssh, wifi, bluetooth are disabled, no mail, desktop or web-applications. It should be pretty secure, even though no login is required on boot. Beware that someone doesn’t physically steal your RPI3!
