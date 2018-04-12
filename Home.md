@@ -11,7 +11,7 @@ Looking for info or willing to share your experience about Tezos self-delegation
 
 We have started gathering all the info about our experience on running a node on RPI3 that were scattered since December 2017. 
 
-There will be constant updates before launch of the mainnet mainly regarding the setup for the zeronet network. For future support of Tezos on the betanet and mainnet see page [e].
+There will be constant updates before launch of the mainnet mainly regarding the setup for the zeronet network. For future support of Tezos on the betanet and mainnet see [page [e]](https://github.com/demodun/tezos-RPI3/wiki/%5Be%5D-About-RPI3-on-the-betanet-and-mainnet-network).
 
 For info/requests/questions: open an issue and leave a message
 \
