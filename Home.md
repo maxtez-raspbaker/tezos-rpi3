@@ -1,8 +1,6 @@
-Welcome to the tezos-RPI3 wiki!
-
-
-
+### Welcome to the tezos-RPI3 wiki!
 ### _Tezos will be the first blockchain technology spreading everywhere through a swarm of tiny machines_
+
 ***
 
 Looking for info or willing to share your experience about Tezos self-delegation and baking on RPI3? this is your place! 
