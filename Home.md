@@ -25,7 +25,7 @@ We have started gathering all the info about our experience on running a node on
 There will be constant updates before launch of the mainnet mainly regarding the setup for the zeronet network. For future support of Tezos on the betanet and mainnet see [page [e]](https://github.com/demodun/tezos-RPI3/wiki/%5Be%5D-About-RPI3-on-the-betanet-and-mainnet-network).
 
 For info/requests/questions: open an issue and leave a message
-\
+
 \
 
 ***
