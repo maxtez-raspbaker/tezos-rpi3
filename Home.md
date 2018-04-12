@@ -9,7 +9,7 @@ Looking for info or willing to share your experience about Tezos self-delegation
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tezos + RPI3 is possible, it is real and it is simple!
 
-We have started gathering all the info about our experience on running a node on RPI3 that were scattered since December 2017. Check them below!
+We have started gathering all the info about our experience on running a node on RPI3 that were scattered since December 2017. ## Check below!
 
 * [Old notes to setup a linux(Fedora) machine and compile Tezos for the alphanet network](https://github.com/demodun/tezos-RPI3/wiki/%5Ba%5D-Old-notes-to-setup-a-linux(Fedora)-machine-and-compile-Tezos-for-the-alphanet-network)
 * [1.Download an image file, 2.write it on a SD card and 3.run a Tezos node on the alphanet](https://github.com/demodun/tezos-RPI3/wiki/%5Bb-1%5D-1.Download-an-image-file,-2.write-it-on-a-SD-card-and-3.run-a-Tezos-node-on-the-alphanet)
@@ -30,7 +30,7 @@ For info/requests/questions: open an issue and leave a message
 
 ***
 
-Various links to Tezos stuff (partial list):
+## Various links to Tezos stuff (partial list):
 * [Tezos Code](https://gitlab.com/tezos/tezos)
 * [Tezos Foundation](https://tezosfoundation.ch/)
 * [Tezos Commons Foundation](https://tezoscommons.org/)
