@@ -48,9 +48,7 @@ For info/requests/questions: open an issue and leave a message!
 * [Tezos Latino](http://tezos.lat/)
 * [Chainomatic](https://www.chainomatic.com/)
 
-\
-\
-\
+
 
 
 ***
