@@ -26,7 +26,7 @@ There will be constant updates before launch of the mainnet mainly regarding the
 
 For info/requests/questions: open an issue and leave a message
 
-\
+
 
 ***
 
