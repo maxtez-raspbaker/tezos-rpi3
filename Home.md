@@ -51,6 +51,10 @@ For info/requests/questions: open an issue and leave a message!
 \
 \
 \
+
+
+***
+
 Contributions to these pages from anyone in the Tezos and github communities are welcome.
 
 https://help.github.com/articles/changing-access-permissions-for-wikis/
