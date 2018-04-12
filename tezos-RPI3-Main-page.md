@@ -7,9 +7,20 @@ Welcome to the tezos-RPI3 wiki!
 
 Looking for info or willing to share your experience about Tezos self-delegation and baking on RPI3? this is your place! 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tezos + RPI3 is possible, it is real and it is simple
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tezos + RPI3 is possible, it is real and it is simple!
 
-We have started gathering all the info about our experience on running a node on RPI3 that were scattered since December 2017. 
+We have started gathering all the info about our experience on running a node on RPI3 that were scattered since December 2017. Check them !
+
+* [Old notes to setup a linux(Fedora) machine and compile Tezos for the alphanet network](https://github.com/demodun/tezos-RPI3/wiki/%5Ba%5D-Old-notes-to-setup-a-linux(Fedora)-machine-and-compile-Tezos-for-the-alphanet-network)
+* [Download an image file, II)write it on a SD card and III)run a Tezos node on the alphanet](https://github.com/demodun/tezos-RPI3/wiki/%5Bb-1%5D-I)Download-an-image-file,-II)write-it-on-a-SD-card-and-III)run-a-Tezos-node-on-the-alphanet)
+* [Super easy transition to the zeronet network](https://github.com/demodun/tezos-RPI3/wiki/%5Bb-2%5D-Super-easy-transition-to-the-zeronet-network)
+* [Some unpolished instructions on compiling Tezos for the zeronet](https://github.com/demodun/tezos-RPI3/wiki/%5Bc%5D-Some-unpolished-instructions-on-compiling-Tezos-for-the-zeronet)
+* [Open discussion about RAM usage](https://github.com/demodun/tezos-RPI3/wiki/%5Bd%5D-Open-discussion-about-RAM-usage)
+* [About RPI3 on the betanet and mainnet network](https://github.com/demodun/tezos-RPI3/wiki/%5Be%5D-About-RPI3-on-the-betanet-and-mainnet-network)
+* [Updates](https://github.com/demodun/tezos-RPI3/wiki/%5Bf%5D-Updates)
+
+
+
 
 There will be constant updates before launch of the mainnet mainly regarding the setup for the zeronet network. For future support of Tezos on the betanet and mainnet see [page [e]](https://github.com/demodun/tezos-RPI3/wiki/%5Be%5D-About-RPI3-on-the-betanet-and-mainnet-network).
 
