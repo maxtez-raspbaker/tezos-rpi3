@@ -12,7 +12,7 @@ and
 
 The replacement follows the same procedure described earlier (here below and page [b-2]).
 
-(Technical detail, a new library is needed for the compilation of Tezos on the zeronet, `opam install conf-libev` which will also recompile various other packages (e.g. lwt))
+(Technical detail for the manual compilation of Tezos on the zeronet, a new library is needed: `opam install conf-libev` which will also recompile various other packages (e.g. lwt))
 
 ***
 ****04/04/2018****: here is a new precompiled Tezos for the zeronet. Not much different from the old one, this is more like a test of the update process. First stop the node if it is running then in /home/tzuser just type:
