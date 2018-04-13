@@ -50,6 +50,14 @@ then edit 3 jbuild files as discussed in page [b-1] and compile the new URI:
 \
 \
 \
+A new library is required:
+
+`opam install conf-libev`
+
+This operation will recompile some of the packages already installed (e.g. lwt)
+\
+\
+\
 With `make build-deps` the package "pkgconf-pkg-config" is still not recognized during the final check.
 Follow the instructions in page [b-1] to solve this issue.
 \
