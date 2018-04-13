@@ -2,6 +2,20 @@
 Links to updates files (e.g. new precompiled tezos for the zeronet network) will be posted here.
 
 ***
+****04/13/2018****: there have been some changes in the zeronet network, please use the new pre-compiled Tezos: 
+
+`wget https://www.dropbox.com/s/11s52oxxeip6h9u/tz-zero041318.zip`
+
+and 
+
+`wget -NO /home/tzuser/tz-switch.sh
+
+The replacement follows the same procedure described earlier (here below and page [b-2])
+
+Technical detail, a new library is needed to compile Tezos on the zeronet `opam install conf-libev` which will
+also recompile various other libraries (e.g. lwt).
+
+***
 ****04/04/2018****: here is a new precompiled Tezos for the zeronet. Not much different from the old one, this is more like a test of the update process. First stop the node if it is running then in /home/tzuser just type:
 
 `wget https://www.dropbox.com/s/k9hp0vygufk987j/tz-zero040318.zip`
