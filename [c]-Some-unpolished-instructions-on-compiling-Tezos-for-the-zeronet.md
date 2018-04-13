@@ -50,7 +50,7 @@ then edit 3 jbuild files as discussed in page [b-1] and compile the new URI:
 \
 \
 \
-A new library is required:
+A new library is required to avoid a crash of the node with this error "_Unix.Unix_error(Unix.EINVAL, "select", "")_":
 
 `opam install conf-libev`
 
