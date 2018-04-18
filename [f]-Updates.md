@@ -2,6 +2,17 @@
 Links to updates files (e.g. new precompiled tezos for the zeronet network) will be posted here.
 
 ***
+****04/18/2018****: Blockchain restarted on the zeronet. The new updated version of Tezos is here:
+
+`wget https://www.dropbox.com/s/kw72wtb0vq92xl6/tz-zero041818.zip`
+
+and 
+
+`wget -NO /home/tzuser/tz-switch.sh https://www.dropbox.com/s/ey9fgl3n1a2k7p6/tz-switch041818.sh`
+
+Before starting the node please delete all the content in "./.tezos-node/store" and "./.tezos-node/context" (e.g. `rm * /home/tzuser/.tezos-node/store`).
+
+***
 ****04/13/2018****: there have been some changes in the zeronet network, please use the new pre-compiled Tezos: 
 
 `wget https://www.dropbox.com/s/11s52oxxeip6h9u/tz-zero041318.zip`
