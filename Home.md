@@ -30,10 +30,12 @@ For info/requests/questions: open an issue and leave a message!
 ***
 
 ### Various links to Tezos stuff (partial list):
-* [Tezos Code](https://gitlab.com/tezos/tezos)
+* [Tezos (The Code)](https://gitlab.com/tezos/tezos)
+* [Tezos Home (more coming soon)](https://tezos.com)
 * [Tezos Foundation](https://tezosfoundation.ch/)
 * [Tezos Commons Foundation](https://tezoscommons.org/)
 * [Developer Resources](http://doc.tzalpha.net/)
+* [Tezos Help](https://www.tezos.help/)
 * [Tezos on Reddit](https://www.reddit.com/r/tezos/)
 * [Tezos.community](https://forums.tezos.community)
 * [Network explorer (more available in Tezos Rocks)](http://tzscan.io/)
@@ -42,11 +44,18 @@ For info/requests/questions: open an issue and leave a message!
 * [Tezos Brainstorm Foundry](https://trello.com/tezosbrainstormfoundry)
 * [Tezos blue wallet](http://tezos.blue/)
 * [Tezbox wallet](https://tezbox.github.io/)
-* [Tezzigator (Tezos Delegator, more available elsewhere)](https://tezzigator.com/)
+* [Tezbridge (Tezos entry point with a browser)](https://github.com/tezbridge/tezbridge.github.io)
+* [Tezzigator (Tezos Delegate, more available elsewhere)](https://tezzigator.com/)
 * [Tezos China](https://www.tezcn.com/)
 * [Tezos Korea](http://cafe.naver.com/tezos/)
 * [Tezos Latino](http://tezos.lat/)
 * [Chainomatic](https://www.chainomatic.com/)
+* [OCaml](http://ocaml.org/)
+* [Michelson Smart Contracts](https://www.michelson-lang.com/)
+* [Liquidity Smart Contracts](http://www.liquidity-lang.org/)
+* [Tezos good posts](https://martin.pospech.cz/post/)
+
+
 
 
 
