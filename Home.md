@@ -43,6 +43,7 @@ For info/requests/questions: open an issue and leave a message!
 * [Tezos on Riot](https://riot.im/app/#/room/#tezos:matrix.org)
 * [Tezos Brainstorm Foundry](https://trello.com/tezosbrainstormfoundry)
 * [Tezos blue wallet](http://tezos.blue/)
+* [Tezos faucet](https://faucet.tzalpha.net/)
 * [Tezbox wallet](https://tezbox.github.io/)
 * [Tezbridge (Tezos entry point with a browser)](https://github.com/tezbridge/tezbridge.github.io)
 * [Tezzigator (Tezos Delegate, more available elsewhere)](https://tezzigator.com/)
