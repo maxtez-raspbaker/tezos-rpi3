@@ -1,4 +1,6 @@
 ### Welcome to the tezos-RPI3 wiki!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/maxtez-raspbaker/TZRPI3-logo/blob/master/TZrpi.jpg" align="center" width="500">
+
 ### _Tezos will be the first blockchain technology spreading everywhere through a swarm of tiny machines_
 
 ***
