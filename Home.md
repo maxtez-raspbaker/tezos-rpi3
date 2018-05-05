@@ -15,7 +15,7 @@ We have started gathering all the info about our experience on running a node on
 * [Old notes to setup a linux(Fedora) machine and compile Tezos for the alphanet network](https://github.com/demodun/tezos-RPI3/wiki/%5Ba%5D-Old-notes-to-setup-a-linux(Fedora)-machine-and-compile-Tezos-for-the-alphanet-network)
 * [1.Download an image file, 2.write it on a SD card and 3.run a Tezos node on the alphanet](https://github.com/demodun/tezos-RPI3/wiki/%5Bb-1%5D-1.Download-an-image-file,-2.write-it-on-a-SD-card-and-3.run-a-Tezos-node-on-the-alphanet)
 * [Super easy transition to the zeronet network](https://github.com/demodun/tezos-RPI3/wiki/%5Bb-2%5D-Super-easy-transition-to-the-zeronet-network)
-* [Some unpolished instructions on compiling Tezos for the zeronet](https://github.com/demodun/tezos-RPI3/wiki/%5Bc%5D-Some-unpolished-instructions-on-compiling-Tezos-for-the-zeronet)
+* [Some unpolished instructions on compiling Tezos for the zeronet (revised May/05/18)](https://github.com/demodun/tezos-RPI3/wiki/%5Bc%5D-Some-unpolished-instructions-on-compiling-Tezos-for-the-zeronet)
 * [Open discussion about RAM usage](https://github.com/demodun/tezos-RPI3/wiki/%5Bd%5D-Open-discussion-about-RAM-usage)
 * [About RPI3 on the betanet and mainnet network](https://github.com/demodun/tezos-RPI3/wiki/%5Be%5D-About-RPI3-on-the-betanet-and-mainnet-network)
 * [Updates](https://github.com/demodun/tezos-RPI3/wiki/%5Bf%5D-Updates)
