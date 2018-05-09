@@ -6,7 +6,26 @@ Links to updates files (e.g. new precompiled tezos for the zeronet network) will
 
 `https://drive.google.com/file/d/1fWNuEXEPgrUI3EQzHVZSV-BK5_QZ-V7s`
 
+Some info. The file is rather large, ~7GB, sorry I could not make it smaller. Good news, no more mammoth image files for a while, F28 will be the Fedora version supporting Tezos on the alphanet, betanet, mainnet until May 2019.
 
+Requirement: 16GB SD card, RPI3 or RPI3+ with the usual accessories (power supply, monitor, keyboard, mouse, fans etc)
+
+Installation: 
+* Same as with the previous image file (instructions in [b-1]). Use etcher (https://etcher.io/) to copy the image on the SD card. 
+* Boot the RPI3 (or RPI3+). It is a good day, no significant changes in the setup compared to the previous version/image (F26).
+* Use the command `./expand.sh` to expand the OS over the entire SD card space (absolutely necessary).
+* Type the command `./tz-init.sh` to create a new identity for the RPI3 Tezos node.
+* To run the node type `./tz-start.sh`. To stop it `./tz-stop.sh`. To shutdown the RPI3 `./tz-sleep.sh` (automatic restart of the node is set every 3 days).
+
+Sometimes in the next few days I will provide some info on how to get a wallet from the faucet and activate the wallet (zeronet network).
+
+P.S. 
+
+Password for user _tzuser_ is: _tzuser_
+
+Password for root/superuser is: _tothemoon_
+
+(no need to say that they should be changed)
 
 ***
 ****04/18/2018****: Blockchain restarted on the zeronet. The new updated version of Tezos is here:
