@@ -6,6 +6,7 @@ Links to updates files (e.g. new precompiled tezos for the zeronet network) will
 
 `https://drive.google.com/file/d/1fWNuEXEPgrUI3EQzHVZSV-BK5_QZ-V7s`
 
+That's all is needed.\
 Some info. The file is rather large, ~7GB, sorry I could not make it smaller. Good news, no more mammoth image files for a while, F28 will be the Fedora version supporting Tezos on the alphanet, betanet, mainnet until May 2019.
 
 Requirement: 16GB SD card, RPI3 or RPI3+ with the usual accessories (power supply, monitor, keyboard, mouse, fans etc)
@@ -19,10 +20,8 @@ Installation:
 
 Sometimes in the next few days I will provide some info on how to get a wallet from the faucet and activate the wallet (zeronet network).
 
-P.S. 
-
-Password for user _tzuser_ is: _tzuser_
-
+P.S. \
+Password for user _tzuser_ is: _tzuser_\
 Password for root/superuser is: _tothemoon_
 
 (no need to say that they should be changed)
