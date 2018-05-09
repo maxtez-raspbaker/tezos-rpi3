@@ -2,6 +2,13 @@
 Links to updates files (e.g. new precompiled tezos for the zeronet network) will be posted here.
 
 ***
+****05/09/2018****: MAJOR UPDATE. The new image file (RPI3-TEZOS-050618.img) of Fedora 28 + precompiled Tezos (zeronet) can be downloaded from here:
+
+`https://drive.google.com/file/d/1fWNuEXEPgrUI3EQzHVZSV-BK5_QZ-V7s`
+
+
+
+***
 ****04/18/2018****: Blockchain restarted on the zeronet. The new updated version of Tezos is here:
 
 `wget https://www.dropbox.com/s/kw72wtb0vq92xl6/tz-zero041818.zip`
