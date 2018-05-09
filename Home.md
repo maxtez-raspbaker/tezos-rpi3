@@ -4,6 +4,9 @@
 ### _Tezos will be the first blockchain technology spreading everywhere through a swarm of tiny machines_
 
 ***
+#### PLEASE NOTE: in this wiki F28 is the Fedora version that will support RPI3 Tezos nodes on the alphanet, betanet and mainnet networks (when they will be activated) until May 2019.
+
+***
 
 Looking for info or willing to share your experience about Tezos self-delegation and baking on RPI3? this is your place! 
 
