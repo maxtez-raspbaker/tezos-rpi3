@@ -14,7 +14,7 @@ Before the launch of the mainnet there will be constant updates to setup and run
 
 #### PLEASE NOTE: in this wiki F28 is the Fedora version that will support RPI3+Tezos on the alphanet, betanet and mainnet networks (when they will be activated) until May 2019.
 
-_No idea where to start?_/
+_No idea where to start?_\
 _Go to page [f] Updates and start downloading the file RPI3-TEZOS-050618.img_
 <!--- * We have started gathering all the info about our experience on running a node on RPI3 that were scattered since December 2017.  --->
 ## tezos-RPI3 notes
