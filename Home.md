@@ -48,6 +48,7 @@ For info/requests/questions: maxtez.raspbaker@gmail.com
 * [Tezos.community](https://forums.tezos.community)
 * [Network explorer (more available in Tezos Rocks)](http://tzscan.io/)
 * [Tezos Rocks](https://tezos.rocks/)
+* [Tezos News](https://TezosNews.us/)
 * [Tezos on Riot](https://riot.im/app/#/room/#tezos:matrix.org)
 * [Tezos Brainstorm Foundry](https://trello.com/tezosbrainstormfoundry)
 * [Tezos blue wallet](http://tezos.blue/)
