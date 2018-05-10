@@ -1,4 +1,6 @@
 
+First step is to get a wallet from the faucet (
+
 <!--- 
 [e] About RPI3 on the betanet and mainnet network
 At the moment (04/05/18) it is unclear whether the Tezos Foundation will provide instructions or support for RPI3 on the betanet and mainnet.
