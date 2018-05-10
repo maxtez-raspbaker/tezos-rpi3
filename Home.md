@@ -15,7 +15,7 @@ Looking for info or willing to share your experience about Tezos self-delegation
 
 Before the launch of the mainnet there will be constant updates to setup and run an RPI3 node for the zeronet/alphanet/betanet network. 
 
-&nbsp;&nbsp;&nbsp;_No idea where to start? go to page [f] Updates and start downloading the file RPI3-TEZOS-050618.img_
+_No idea where to start? go to page [f] Updates and start downloading the file RPI3-TEZOS-050618.img_
 <!--- * We have started gathering all the info about our experience on running a node on RPI3 that were scattered since December 2017.  --->
 ## tezos-RPI3 notes
 
