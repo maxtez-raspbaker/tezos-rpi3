@@ -1,5 +1,19 @@
 
-Links to updates files (e.g. new precompiled tezos for the zeronet network) will be posted here.
+Links to updates files (e.g. new precompiled tezos for the zeronet/alphanet/betanet/mainet network) will be posted here.
+
+***
+****05/18/2018****: Back to the alphanet (last chance to play with unreal XTZ). From `./home/tzuser` as a user, download the precompiled Tezos for the alphanet here:
+
+wget https://www.dropbox.com/s/6hy1f0w51dcbfkr/tz-alpha051818.zip
+
+and also this script:
+
+wget -NO /home/tzuser/tz-switch.sh https://www.dropbox.com/s/efvptwfujynqf79/tz-switch051818.sh
+
+To install the new Tezos program, run the script `./tz-switch.sh`, and your RPI3 is ready to go, as usual, just type `./tz-start.sh`. 
+
+Please note, if you haven't installed the new Fedora 28 yet, that is the image in the previous post (RPI3-TEZOS-050618.img), please do it before downloading the two files from this update.
+Painful but necessary, just follow the steps here below and after creating the new identity, please download the two files from this post. Then run the script `./tz-switch.sh` and your RPI3 is ready to go.
 
 ***
 ****05/09/2018****: MAJOR UPDATE. The new image file (RPI3-TEZOS-050618.img) of Fedora 28 + precompiled Tezos (zeronet) can be downloaded from here:
