@@ -1,5 +1,4 @@
 ### NEWS
 - ****05/10/18**** new page [d] Playing with the zeronet (in progress)
 - ****05/09/18**** Link to the image file for Fedora 28 + precompiled Tezos (zeronet) can be found in the [f] Updates page. F28 works also with RPI3 B+.
-- ****05/05/18**** Tezos(zeronet) successfully compiled on the new Fedora 28. A new F28_Image+precompiled Tezos also supporting RPI3 B+ will be available next week.
 
