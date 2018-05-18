@@ -1,4 +1,5 @@
 **old news (archive)**
+- ****05/05/18**** Tezos(zeronet) successfully compiled on the new Fedora 28. A new F28_Image+precompiled Tezos also supporting RPI3 B+ will be available next week.
 - ****04/18/18**** New precompiled Tezos for the zeronet is available in the [f] Updates page
 - ****04/13/18**** if the node on the zeronet crashes with this error _Unix.Unix_error(Unix.EINVAL, "select", "")_ please go to the update page [f]
 - ****04/05/18**** The image OS+Tezos at page [b-1] does not work with the new RPI3 B+. It will be supported by Fedora 28, official release May 1st. Shortly after I will make a new image F28+Tezos(zeronet).
