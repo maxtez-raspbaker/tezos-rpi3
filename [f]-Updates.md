@@ -4,11 +4,11 @@ Links to updates files (e.g. new precompiled tezos for the zeronet/alphanet/beta
 ***
 ****05/18/2018****: Back to the alphanet (last chance to play with unreal XTZ). From `./home/tzuser` as a user, download the precompiled Tezos for the alphanet here:
 
-wget https://www.dropbox.com/s/6hy1f0w51dcbfkr/tz-alpha051818.zip
+`wget https://www.dropbox.com/s/6hy1f0w51dcbfkr/tz-alpha051818.zip`
 
 and also this script:
 
-wget -NO /home/tzuser/tz-switch.sh https://www.dropbox.com/s/efvptwfujynqf79/tz-switch051818.sh
+`wget -NO /home/tzuser/tz-switch.sh https://www.dropbox.com/s/efvptwfujynqf79/tz-switch051818.sh`
 
 To install the new Tezos program, run the script `./tz-switch.sh`, and your RPI3 is ready to go, as usual, just type `./tz-start.sh`. 
 
