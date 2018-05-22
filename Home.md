@@ -66,7 +66,9 @@ For info/requests/questions: maxtez.raspbaker@gmail.com
 * [OCaml](http://ocaml.org/)
 * [Michelson Smart Contracts](https://www.michelson-lang.com/)
 * [Liquidity Smart Contracts](http://www.liquidity-lang.org/)
-* [Tezos good posts](https://martin.pospech.cz/post/)
+* [Tezos good stuff](https://martin.pospech.cz/post/)
+* [Tezos store](https://shop.spreadshirt.com/tezos-store/)
+
 
 
 
