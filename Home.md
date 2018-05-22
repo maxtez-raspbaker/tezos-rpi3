@@ -22,7 +22,7 @@ _Go to page [f] Updates and start downloading the file RPI3-TEZOS-050618.img_
 * [Old notes to setup a linux(Fedora) machine and compile Tezos for the alphanet network](https://github.com/demodun/tezos-RPI3/wiki/%5Ba%5D-Old-notes-to-setup-a-linux(Fedora)-machine-and-compile-Tezos-for-the-alphanet-network)
 * [1.Download an image file, 2.write it on a SD card and 3.run a Tezos node on the alphanet](https://github.com/demodun/tezos-RPI3/wiki/%5Bb-1%5D-1.Download-an-image-file,-2.write-it-on-a-SD-card-and-3.run-a-Tezos-node-on-the-alphanet)
 * [Super easy transition to the zeronet network](https://github.com/demodun/tezos-RPI3/wiki/%5Bb-2%5D-Super-easy-transition-to-the-zeronet-network)
-* [ Some unpolished instructions on installing OCaml and compiling Tezos for the alphanet (new May 22 18)](https://github.com/demodun/tezos-RPI3/wiki/%5Bc%5D-Some-unpolished-instructions-on-installing-OCaml-and-compiling-Tezos-for-the-alphanet-(new-May-22-18)
+* [Some unpolished instructions on installing OCaml and compiling Tezos for the alphanet (new May 22 18)](https://github.com/demodun/tezos-RPI3/wiki/%5Bc%5D-Some-unpolished-instructions-on-installing-OCaml-and-compiling-Tezos-for-the-alphanet-(new-May-22-18))
 * [Playing with the zeronet (in progress)](https://github.com/demodun/tezos-RPI3/wiki/%5Bd%5D-Playing-with-the-zeronet-(in-progress))
 * [Open discussion about RAM usage](https://github.com/demodun/tezos-RPI3/wiki/%5Bed%5D-Open-discussion-about-RAM-usage)
 <!--- * [About RPI3 on the betanet and mainnet network](https://github.com/demodun/tezos-RPI3/wiki/%5Be%5D-About-RPI3-on-the-betanet-and-mainnet-network) ---> 
